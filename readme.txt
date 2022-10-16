@@ -14,5 +14,5 @@ python -m pip install sqlalchemy
 python -m pip install psycopg2
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
- No llegue a crear la BDD desde sqlalchemy, asi que voy a dejar la query para 
+ No llegue a crear la BDD desde sqlalchemy, asi que voy a dejar el archivo .sql para 
 que se haga de forma manual
